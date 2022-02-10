@@ -1,16 +1,6 @@
-# options_app
+# Tips App
 
-A new Flutter project.
+This new Flutter project shows you some tips for good learning about programming languages.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/56281886/153498706-d6b8817f-ad24-4fc3-a705-f3e3e634f7af.jpg" width="250" height="500"></img>
+<img src="https://user-images.githubusercontent.com/56281886/153498709-d78dc512-06ce-4ea8-800f-4c4384964397.jpg" width="250" height="500"></img>
